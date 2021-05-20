@@ -1,1 +1,0 @@
-Tutorial Install React Native
